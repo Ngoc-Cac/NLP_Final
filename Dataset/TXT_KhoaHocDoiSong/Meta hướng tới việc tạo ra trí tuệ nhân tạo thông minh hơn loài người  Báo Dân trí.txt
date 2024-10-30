@@ -1,0 +1,19 @@
+Meta hướng tới việc tạo ra trí tuệ nhân tạo thông minh hơn loài người
+(Dân trí) - Công ty Meta đã tiết lộ khoản đầu tư hơn 10 tỷ USD vào cơ sở hạ tầng công nghệ để phát triển trí tuệ nhân tạo tổng hợp.
+Trí tuệ nhân tạo tổng hợp là một dạng công nghệ tiên tiến đang được nhiều công ty phát triển (Ảnh minh họa: Science post).
+Trong một thông báo gần đây, Giám đốc điều hành Meta, Mark Zuckerberg đã tiết lộ khoản đầu tư khổng lồ hơn 10 tỷ USD vào cơ sở hạ tầng công nghệ thông tin, nhằm phát triển Trí tuệ nhân tạo tổng hợp (AGI). 
+Không giống như trí tuệ nhân tạo (AI) hiện tại chuyên về các nhiệm vụ cụ thể, AGI nhằm mục đích sánh ngang hoặc vượt qua khả năng của con người trong một loạt các nhiệm vụ có nhận thức phức tạp. 
+Sáng kiến này đánh dấu một cột mốc quan trọng trong lĩnh vực AI, nhấn mạnh tầm quan trọng ngày càng tăng của những công nghệ này trong xã hội chúng ta.
+Meta có kế hoạch mua 350.000 bộ xử lý đồ họa (GPU) Nvidia H100 mạnh nhất thế giới, cần thiết để đào tạo các mô hình AI tiên tiến nhất. 
+Việc mua lại này sẽ gia tăng đáng kể sức mạnh tính toán của Meta dành riêng cho đào tạo AI, nhắm tới công suất tương đương 600.000 GPU H100.
+Để so sánh, công ty OpenAI được cho là đã sử dụng khoảng 25.000 GPU Nvidia A100 để đào tạo ChatGPT, một số ước tính khác cho thấy con số thấp hơn.
+AGI hứa hẹn sẽ có khả năng giải quyết các vấn đề trên nhiều lĩnh vực, từ đó mô phỏng các đặc điểm chính của trí thông minh con người, bao gồm khả năng học tập và tính linh hoạt. 
+"Việc đạt được AGI có thể đại diện cho một điểm không thể quay trở lại của nhân loại", Giám đốc điều hành Google, Sundar Pichai chỉ ra vào năm 2018.
+Tuy nhiên, nhiều nhà khoa học tin rằng nhân loại sẽ không bao giờ có thể chế tạo được AGI.
+Meta hiện đang trong quá trình nghiên cứu và cho ra mắt công cụ AI, Llama 3 để cạnh tranh với ChatGPT và Gemini của Google. Công ty này đã vạch ra lộ trình trong tương lai bao gồm hệ thống AGI. 
+Zuckerberg tuyên bố, số lượng cơ sở hạ tầng cực kỳ khổng lồ này sẽ được hoàn thành vào cuối năm nay.
+AGI gây lo lắng trên thế giới
+Dự đoán đến năm 2028, AI sẽ hoàn thành phần lớn các nhiệm vụ trí tuệ định hình con người ngày nay.
+Nó sẽ có khả năng sáng tác độc lập các bài hát hoàn chỉnh, khó có thể phân biệt được với các tác phẩm từ con người hoặc việc tạo ra toàn bộ trang web dành riêng cho việc xử lý các giao dịch tài chính.
+Đặc biệt khi AGI ra đời, nó sẽ vượt xa khả năng trí tuệ và ra quyết định của con người.
+Nhiều nhà nghiên cứu tin rằng, nếu công nghệ như vậy thoát khỏi sự kiểm soát của chúng ta, sẽ gây ra hậu quả nghiêm trọng như việc AGI thao túng dư luận hay phát triển vũ khí hóa học, gây bất ổn an ninh trên toàn thế giới. 

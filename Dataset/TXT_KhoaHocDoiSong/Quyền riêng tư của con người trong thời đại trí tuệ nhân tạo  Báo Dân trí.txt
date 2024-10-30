@@ -1,0 +1,16 @@
+Quyền riêng tư của con người trong thời đại trí tuệ nhân tạo
+(Dân trí) - Trí tuệ nhân tạo ngày càng phổ biến, được tích hợp trong đồng hồ thông minh, smartphone hay nền tảng trực tuyến. Nó có thể truy cập thông tin nhạy cảm mà người dùng không hay biết.
+Trí tuệ nhân tạo ngày càng phổ biến với chúng ta, nhiều quốc gia đang lên phương án để bảo vệ dữ liệu cá nhân người dùng (Ảnh minh họa: Futura Science).
+Trước những rủi ro này, nhiều quốc gia bắt đầu xem xét các kế hoạch để quản lý tốt hơn việc truy cập dữ liệu cá nhân người dùng từ trí tuệ nhân tạo (AI).
+Trong đó, Liên minh Châu Âu (EU) đang đề xuất các biện pháp quản lý nhằm bảo vệ dữ liệu cá nhân và thông báo đến người dùng về việc AI sử dụng thông tin của họ.
+EU mong muốn hoàn thành Bộ Quy định chung về Bảo vệ Dữ liệu (GDPR) và có kế hoạch bổ sung một bộ quy tắc hài hòa về việc sử dụng AI, khi nó ngày càng phổ biến với chúng ta. 
+AI ngày nay được kết nối với đồng hồ thông minh, vòng đeo tay để thu thập dữ liệu sức khỏe hay thậm chí phát hiện một số bệnh lý từ người sử dụng.
+Tuy nhiên, người dùng không phải lúc nào cũng nhận thức được rằng, những quyền mà chúng ta cung cấp cho các thiết bị truy cập có thể để lộ những thông tin nhạy cảm, được khai thác cho mục đích thương mại.
+Đây không phải là mối quan tâm duy nhất, bởi trí tuệ nhân tạo có sự tham gia của nhiều người chơi từ các công ty phát triển, nhà cung cấp, nhà nhập khẩu, nhà phân phối và người dùng.
+Do đó, rất khó để biết ai thực sự có quyền truy cập vào dữ liệu cá nhân và ai sẽ chịu trách nhiệm trong trường hợp có vấn đề xấu xảy ra với chúng ta. 
+Trừng phạt nặng nề
+Với việc sử dụng ngày càng nhiều AI, nguy cơ rò rỉ hoặc mất quyền kiểm soát dữ liệu cá nhân tăng lên đáng kể. Đây là lý do tại sao, người tiêu dùng phải tìm hiểu về công ty thu thập dữ liệu của họ và chính sách xử lý thông tin cá nhân của công ty đó. 
+Để làm được điều này không phải lúc nào cũng dễ dàng, ngay cả khi một tập đoàn, công ty công nghệ có những chính sách bảo vệ dữ liệu người dùng của riêng mình. 
+Do đó, Liên minh Châu Âu đã đề xuất 3 văn bản: Khung pháp lý về trí tuệ nhân tạo, chỉ thị về trách nhiệm pháp lý của AI và chỉ thị về trách nhiệm pháp lý đối với sản phẩm. 
+Trong số các quy định bổ sung, EU bắt buộc các gã khổng lồ kỹ thuật số và các nền tảng mạng xã hội phải thông báo rõ ràng hơn cho người dùng về thuật toán của họ.
+Liên minh này cũng đưa ra các biện pháp trừng phạt khắt khe, 10 - 30 triệu euro hoặc từ 2 đến 4% doanh thu trong trường hợp các công ty công nghệ không tuân thủ các nghĩa vụ mới này. 

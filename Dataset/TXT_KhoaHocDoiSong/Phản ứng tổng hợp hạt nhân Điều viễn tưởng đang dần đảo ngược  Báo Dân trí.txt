@@ -1,0 +1,23 @@
+Phản ứng tổng hợp hạt nhân: Điều viễn tưởng đang dần đảo ngược
+(Dân trí) - Với những thành công trong các cuộc thử nghiệm gần đây từ phản ứng tổng hợp hạt nhân, chúng ta hoàn toàn có quyền hy vọng vào một tương lai không lo về năng lượng.
+Lò thử nghiệm phản ứng tổng hợp hạt nhân của Hàn Quốc (Ảnh: Trust my science).
+Phản ứng tổng hợp hạt nhân sẽ là cách đáp ứng phần lớn nhu cầu ngày càng tăng trong lĩnh vực năng lượng, đặc biệt là vấn đề an ninh và tính bền vững.
+Tuy nhiên, con đường phát triển nguồn năng lượng này còn gặp nhiều khó khăn về mặt kỹ thuật và các nhà nghiên cứu trên thế giới đang nỗ lực giải quyết.
+Tại Hàn Quốc, công việc này đang tiến triển nhanh chóng: Lò phản ứng thử nghiệm nghiên cứu tiên tiến Tokamak siêu dẫn, tên là KSTAR đã phá kỷ lục mới về thời gian phản ứng, duy trì plasma ở nhiệt độ 100 triệu độ C trong 48 giây.
+KSTAR tokamak là lò phản ứng nhiệt hạch nghiên cứu có trụ sở tại Hàn Quốc, được ra mắt vào khoảng những năm 1990.
+Nó nhằm mục đích cho phép các nhà khoa học thử nghiệm công nghệ nhiệt hạch quan trọng - tương tự như phản ứng tự nhiên diễn ra trong tâm của các ngôi sao - tạo ra một lượng năng lượng khổng lồ.
+Plasma đầu tiên được tạo ra bởi lò phản ứng có từ năm 2008. Đây là một trạng thái của vật chất bao gồm các ion và electron, trong đó có thể xảy ra phản ứng tổng hợp.
+Để làm được điều này, plasma phải được nung nóng đến nhiệt độ cực cao (vài triệu độ C), giúp hạt nhân nguyên tử có thể vượt qua lực đẩy tĩnh điện, hợp nhất và do đó giải phóng năng lượng khổng lồ.
+Tuy nhiên, plasma có bản chất hỗn loạn và không ổn định ở nhiệt độ như vậy. Để giữ cho nó ổn định và hạn chế đủ lâu - cho phép phản ứng tổng hợp xảy ra - nhiệm vụ cực kỳ khó khăn.
+Một kỷ lục thế giới mới
+Trong ngắn hạn (đến năm 2026), các nhà nghiên cứu muốn thành công trong việc duy trì nhiệt độ plasma ở mức 100 triệu độ C trong 300 giây và đã vượt qua mốc 100 triệu độ C vào năm 2018.
+Vào năm 2020, lò phản ứng này đã đạt được thời lượng 20 giây ở cùng nhiệt độ này.
+Do đó, KSTAR đã phá kỷ lục vào năm 2021 khi duy trì plasma ở mức hơn 100 triệu độ trong 30 giây. Đầu năm 2024, một bước mới đã được thực hiện để đạt mục tiêu cuối cùng. Lần này, phản ứng được duy trì trong 48 giây, lập kỷ lục mới.
+Theo thông cáo báo chí của Viện Năng lượng Nhiệt hạch Hàn Quốc, thành tích này đạt được trong chiến dịch vận hành cuối cùng của lò phản ứng, diễn ra từ tháng 12/2023 đến tháng 2 năm 2024.
+Ngoài kỷ lục mới này, các nhà khoa học còn duy trì chế độ H (hay chế độ ngăn chặn cao) trong 102 giây. Điều này thể hiện ở việc giam giữ năng lượng và plasma đặc biệt hiệu quả hơn so với các chế độ vận hành tiêu chuẩn, do đó cho phép plasma giữ nóng lâu hơn.
+Cải tiến vật liệu
+Để đạt được thành tích này, các nhà vật lý đã thực hiện một số sửa đổi đối với các thành phần của lò phản ứng.
+Đặc biệt, họ đã thay thế bộ chuyển hướng carbon bằng mẫu vonfram mới. Đây là một bộ phận thiết yếu của lò phản ứng, được đặt ở đáy buồng chứa tokamak.
+Nó được sử dụng để kiểm soát và chiết xuất các sản phẩm của phản ứng nhiệt hạch, đặc biệt là các hạt nóng gọi là "tro".
+Nếu những thứ này không được loại bỏ, chúng có thể làm giảm nhiệt độ plasma hoặc cản trở phản ứng nhiệt hạch đang diễn ra.
+Do đó, bộ chuyển hướng giúp duy trì độ tinh khiết của plasma (từ đó duy trì phản ứng nhiệt hạch ổn định và hiệu quả), đồng thời bảo vệ các thành của buồng tokamak khỏi bị hư hại do các hạt cháy gây ra.

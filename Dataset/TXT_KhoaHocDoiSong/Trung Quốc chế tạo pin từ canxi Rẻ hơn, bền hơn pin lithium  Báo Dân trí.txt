@@ -1,0 +1,16 @@
+Trung Quốc chế tạo pin từ canxi: Rẻ hơn, bền hơn pin lithium
+(Dân trí) - Nghiên cứu được kỳ vọng sẽ mở đường cho các công nghệ pin rẻ hơn và an toàn hơn pin lithium-ion trong khi vẫn cung cấp công suất năng lượng tương đương về mặt lý thuyết.
+Pin canxi có thể được chế tạo thành dạng sợi linh hoạt, sử dụng trên các hệ thống thiết bị đeo tân tiến (Ảnh: Đại học Fudan).
+Một nhóm các nhà khoa học của Đại học Fudan, Trung Quốc, mới đây đã lần đầu tiên chế tạo ra pin dựa trên canxi có thể sạc và xả khoảng 700 lần ở nhiệt độ phòng. Đây được xem là giải pháp thay thế rẻ hơn, an toàn hơn cho pin lithium-ion (hay li-ion) đã có từ hơn 3 thập kỷ.
+"Với lượng canxi dồi dào gấp 2.500 lần so với lithium, loại pin mới mang đến lựa chọn khả thi với mật độ năng lượng có thể tương đương", nhóm nghiên cứu cho biết trên tạp chí Nature. "Pin có thể biến canxi hóa học thành một công nghệ lưu trữ năng lượng bền vững, đầy hứa hẹn".
+Nghiên cứu được kỳ vọng sẽ mở đường cho các công nghệ pin rẻ hơn và an toàn hơn pin lithium-ion trong khi vẫn cung cấp công suất năng lượng tương đương về mặt lý thuyết.
+Pin lithium-ion vốn được biết đến với mật độ năng lượng cao - hay khả năng lưu trữ năng lượng lớn hơn so với trọng lượng hoặc kích thước. Đây cũng là loại pin được sử dụng rộng rãi nhất trên toàn thế giới.
+Tuy nhiên, việc đảm bảo nguồn cung cấp lithium là rất quan trọng để mở rộng các ngành công nghiệp bền vững như lưu trữ năng lượng tái tạo và xe điện.
+Cơ quan Năng lượng Quốc tế (IEA) đã dự báo tình trạng thiếu lithium vào năm 2024 do nhu cầu về xe điện tăng cao, cũng như trong bối cảnh trữ lượng toàn cầu bị đẩy về mức 0. Bên cạnh đó, việc khai thác lithium cũng là một quá trình tốn kém.
+Nhóm nghiên cứu từ Đại học Fudan cho biết trong số các loại pin làm từ canxi, hệ thống canxi-oxy của công nghệ mới này có mật độ năng lượng lý thuyết cao nhất. Điều này là do nhiên liệu của pin được lấy từ oxy trong không khí chứ không phải từ vật liệu được lưu trữ bên trong pin.
+Công nghệ pin mới cũng giải quyết được một trong những nhược điểm cố hữu của pin canxi-oxy từ trước tới nay, là không thể hoạt động ổn định ở nhiệt độ phòng.
+Nhóm nghiên cứu viết rằng việc tìm ra chất điện phân - thành phần trong pin cho phép sạc và xả - không gây ra phản ứng canxi làm hạn chế dung lượng pin là một thách thức lớn đối với các nhà nghiên cứu.
+Để giải quyết vấn đề này, nhóm từ Đại học Fudan đã tạo ra chất điện phân lỏng, có thể chứa cả thành phần canxi và oxy của pin. Nhờ đó, pin sạc mà họ sản xuất có thể cung cấp giải pháp thay thế rẻ hơn cho pin dựa trên lithium với tiềm năng ứng dụng trên phạm vi rộng.
+Ngoài ra sau khi đặt các thành phần của pin lên sợi, các nhà nghiên cứu nhận thấy pin sợi của họ có thể hoạt động ổn định ngay cả khi bị uốn cong từ 0 đến 180 độ
+"Pin canxi-oxy được đề xuất hoạt động ổn định trong không khí và có thể được chế tạo thành dạng sợi linh hoạt để tạo thành pin dệt cho các hệ thống thiết bị đeo tân tiến", nhóm nghiên cứu cho biết.
+Mặc dù hiệu suất và dung lượng pin canxi-oxy vẫn còn hạn chế, nhưng nhóm nghiên cứu cho biết kỹ thuật tiếp theo có thể cải thiện hoạt động của pin và nghiên cứu của họ cũng mở ra nhiều con đường hơn để sản xuất pin canxi bằng các vật liệu khác.

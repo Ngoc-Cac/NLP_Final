@@ -1,0 +1,20 @@
+Robot hình người lẫm chẫm bê vác trong nhà máy lắp ráp xe sang
+(Dân trí) - Thay vì những cánh tay robot được sử dụng cho các dây chuyền tự động, hãng xe sang Mercedes-Benz đã sử dụng robot hình người để làm nhiều công việc trong các nhà máy sản xuất của mình.
+Mercedes-Benz vừa tuyên bố hợp tác với Apptronik, công ty phát triển robot và trí tuệ nhân tạo có trụ sở tại thành phố Austin (bang Texas, Mỹ), để đưa robot hình người có tên Apollo của Apptronik vào làm việc trong các nhà máy của lắp ráp xe của Mercedes-Benz.
+Apollo sẽ thực hiện những công việc đòi hỏi sức khỏe thể chất nhưng không yêu cầu quá nhiều kỹ năng.
+"Mercedes-Benz dự định sẽ sử dụng robot Apollo để tự động hóa một số công việc chân tay đòi hỏi sức khỏe thể chất, nhưng ít cần kỹ năng. Đây là một mô hình sử dụng robot mẫu mực mà chúng tôi tin rằng nhiều doanh nghiệp khác cũng sẽ thực hiện theo trong tương lai", Jeff Cardenas, CEO của Apptronik, cho biết trong một thông cáo đưa ra.
+Robot hình người Apollo trong nhà máy sản xuất của Mercedes-Benz (Ảnh: Apptronik).
+Appollo là robot hình người được Apptronik giới thiệu từ tháng 8/2023. Robot này có chiều cao 1,73m và nặng 73kg, có khả năng di chuyển linh hoạt bằng 2 chân, nâng vật nặng tối đa 25kg và hoạt động liên tục trong vòng 4 giờ nhờ bộ pin tích hợp.
+Robot này có mắt bằng đèn LED và một màn hình trên khuôn mặt để hiển thị nụ cười hoặc biểu tượng thông báo cần sạc pin… trên ngực của robot cũng được trang bị một màn hình cảm ứng để hiển thị các thông tin khác nhau, bao gồm mức pin và thời gian hoạt động ước tính còn lại của robot….
+Không giống như xe điện, Apollo không có tính năng sạc pin bằng cách cắm điện, thay vào đó robot này được trang bị những bộ pin có thể tháo rời và thay thế khi hết điện.
+Ngoài ra, nếu robot này được giao một nhiệm vụ cố định, nó không cần phải sử dụng đến đôi chân vì phần thân trên vẫn có thể hoạt động độc lập khi gắn vào một trụ cố định.
+Robot được tích hợp các cảm biến để phát hiện các vật thể chuyển động gần hoặc người trong "vùng tác động", lúc này robot sẽ dừng lại vì lý do an toàn, tránh gây nguy hiểm cho con người. Apollo cũng đi kèm một phần mềm cho phép người dùng có thể điều khiển từ xa giống như đang chơi game.
+Trước mắt, hãng xe Mercedes-Benz sẽ sử dụng robot Apollo để kiểm tra các bộ phận của xe, mang các bộ phận linh kiện đến dây chuyền sản xuất để công nhân lắp ráp…
+"Để chế tạo những chiếc xe tốt nhất, chúng tôi không ngừng phát triển tương lai của dây chuyền sản xuất ô tô. Những tiến bộ về robot và AI đã mở ra những cơ hội mới cho chúng tôi", Jorg Burzer, thành viên ban quản trị của tập đoàn Mercedes-Benz, người chịu trách nhiệm giám sát sản xuất, chất lượng và chuỗi cung ứng của hãng xe này, cho biết.
+"Chúng tôi đã khám phá những khả năng của việc sử dụng robot để hỗ trợ lực lượng lao động lành nghề trong dây chuyền sản xuất", ông Burzer nói thêm. "Đây là một ranh giới mới và chúng tôi muốn tìm hiểu tiềm năng của robot để lấp đầy khoảng trống về thiếu hụt nhân công trong lĩnh vực sản xuất".
+Giới thiệu về robot Apollo của Apptronik (Video: Apptronik).
+Robot Apollo được chào đón tại nhà máy của Mercedes-Benz (Video: Edtech).
+Apptronik không phải là công ty đầu tiên và duy nhất đang phát triển các mẫu robot hình người được tích hợp trí tuệ nhân tạo để tham gia vào quá trình sản xuất công nghiệp nặng. Ngày càng nhiều mẫu robot hình người được ra đời cùng với khả năng tư duy và di chuyển linh hoạt để đáp ứng nhiều yêu cầu của con người.
+Theo đánh giá của hãng nghiên cứu thị trường MarketsandMarkets, ngành công nghiệp robot hình người sẽ "bùng nổ" trong vòng 5 năm tới, đạt giá trị 13,8 tỷ USD và sẽ ngày càng nhiều robot hình người tích hợp trí tuệ nhân tạo được ra đời.
+Thậm chí, nhiều chuyên gia còn cho rằng robot hình người sẽ ngày càng trở nên thông minh hơn và thay thế cho con người trong nhiều lĩnh vực, công việc… ở tương lai không xa.
+Theo SoMag/Dtrends

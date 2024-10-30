@@ -1,0 +1,16 @@
+Trí tuệ nhân tạo có thể dự đoán thời điểm một người qua đời
+(Dân trí) - Đã bao giờ bạn muốn biết bản thân sẽ sống đến năm bao nhiêu tuổi hay không? Các nhà khoa học Đan Mạch đã tạo ra một hệ thống trí tuệ nhân tạo (AI) có thể dự đoán điều này giúp bạn.
+Cái chết là điều đáng sợ nhất đối với không ít người. Dù vậy, đôi khi có những người vẫn muốn biết trước tuổi thọ của bản thân để có thể sẵn sàng đối mặt với cái chết. Dĩ nhiên, không ai có thể dự đoán được tương lai, nhưng một hệ thống trí tuệ nhân tạo lại có thể thực hiện được điều này với mức độ chính xác cao.
+Theo đó, các nhà khoa học tại Đại học Kỹ thuật Đan Mạch (DTU) đã tạo ra một hệ thống trí tuệ nhân tạo với tên gọi "life2vec", có khả năng dự đoán tuổi thọ và thời điểm của một người qua đời.
+Liệu bạn có sẵn sàng để AI dự đoán thời điểm mình sẽ qua đời? (Ảnh minh họa: Getty).
+Trong quá trình phát triển hệ thống AI này, các nhà khoa học của DTU đã thu thập dữ liệu của hơn một triệu người tình nguyện tham gia nghiên cứu tại Đan Mạch trong giai đoạn từ năm 2008 đến 2020.
+Các dữ liệu được thu thập bao gồm trình độ học vấn, tình trạng sức khỏe, hồ sơ khám chữa bệnh, đặc thù công việc, mức độ hài lòng với cuộc sống…
+Sau khi được huấn luyện bằng các dữ liệu thu thập được, "life2vec" đã sử dụng các thuật toán để dự đoán xem những người trong số các tình nguyện viên thuộc nhóm tuổi từ 35 đến 65 có ai qua đời vào năm 2020 hay không. Kết quả dự đoán cho thấy mức độ chính xác lên đến 79%.
+"Chúng tôi đã sử dụng trí tuệ nhân tạo để giải quyết một câu hỏi của nhiều người, đó là dự đoán các sự kiện trong tương lai của bạn dựa trên các điều kiện hiện tại và sự kiện diễn ra trong quá khứ", tiến sĩ Sune Lehman, đến từ DTU và trưởng nhóm nghiên cứu, chia sẻ.
+Sune Lehman cho biết "life2vec" sẽ xâu chuỗi các dữ liệu về một người, bao gồm tình trạng sức khỏe, mức độ hài lòng với công việc, thói quen sinh hoạt… để đưa ra xác suất về những gì xảy ra tiếp theo với người đó dựa trên thống kê.
+"Hệ thống AI này coi cuộc sống của con người như một chuỗi sự kiện dài, từ đó mô hình AI sẽ phân tích và xâu chuỗi sự kiện này để dự đoán về các sự kiện diễn ra tiếp theo, bao gồm cả thời điểm một người qua đời", tiến sĩ Lehman chia sẻ thêm.
+Nghiên cứu được công bố trên tạp chí "Khoa học tính toán tự nhiên", cho thấy rằng các dự đoán của mô hình "life2vec" chính xác hơn 11% so với các mô hình tính toán áp dụng AI khác hiện có.
+Tiến sĩ Lehman cho biết không ít công ty bảo hiểm nhân thọ đã sử dụng các mô hình AI để tính toán và dự đoán về tuổi thọ của khách hàng, nhưng bà khẳng định mô hình "life2vec" cho kết quả dự đoán chính xác cao hơn rất nhiều.
+Dĩ nhiên, mô hình AI "life2vec" chỉ có thể dự đoán được tuổi thọ và thời điểm một người qua đời vì nguyên nhân tự nhiên hoặc vì bệnh tật, trong khi đó những người qua đời vì tai nạn thì chắc hẳn không hệ thống AI nào có thể dự đoán được.
+Vấn đề đặt ra là liệu có người nào sẵn sàng để AI dự đoán thời điểm họ qua đời hay không, bởi lẽ nếu biết được thời điểm mình qua đời, những người này sẽ phải trải qua một cuộc sống đầy áp lực và nặng nề vì đã biết trước thời điểm cái chết sẽ ập đến với mình.
+Theo UL/YN

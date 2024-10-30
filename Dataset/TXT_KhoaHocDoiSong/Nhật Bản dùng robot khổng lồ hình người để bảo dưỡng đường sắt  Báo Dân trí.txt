@@ -1,0 +1,17 @@
+Nhật Bản dùng robot khổng lồ hình người để bảo dưỡng đường sắt
+(Dân trí) - Một công ty đường sắt tại Nhật Bản đã triển khai robot hình người khổng lồ để thực hiện các công tác bảo dưỡng hệ thống dây điện chạy tàu, sửa chữa cơ sở hạ tầng trên cao...
+Công ty Đường sắt Tây Nhật Bản (West JR), một trong 6 công ty trực thuộc Tập đoàn Đường sắt Nhật Bản, đã chính thức triển khai một robot hình người khổng lồ để thực hiện các công việc nặng trên tuyến đường sắt do công ty khai thác.
+Robot này, hiện chưa được đặt tên, được West JR mô tả là một "thiết bị đa chức năng để bảo trì cơ sở hạ tầng, thiết bị đường sắt".
+Robot khổng lồ do West JR phát triển (Ảnh: West JR).
+Robot này được phát triển bởi West JR phối hợp với Jinki Ittai, một nhà phát triển công nghệ robot, và Nippon Signal Co, một công ty cung cấp giải pháp công nghệ thông tin và điện tử viễn thông.
+Với hình dáng giống các mẫu robot khổng lồ trong phim khoa học viễn tưởng, robot của West JR có gương mặt nổi bật với 2 camera đóng vai trò như mắt để quan sát và 2 cánh tay lớn để thực hiện các công việc nặng.
+Được gắn trên một cần trục di chuyển trên đường sắt, robot có thể đạt độ cao tối đa 12m và được điều khiển bởi một kỹ sư ngồi trong phòng điều khiển phía dưới cần trục.
+Kỹ sư điều khiển robot sử dụng kính thực tế ảo để quan sát trực tiếp hình ảnh từ camera gắn trên mắt của robot. Góc nhìn của robot sẽ tự động thay đổi khi người điều khiển quay đầu, và các thông số như lực nâng và hệ thống thủy lực cũng được hiển thị đầy đủ trong tầm nhìn của người điều khiển.
+Robot khổng lồ của West JR có thể thay thế và bảo trì các hạ tầng đường sắt trên cao (Ảnh: West JR).
+Robot này được thiết kế để tiếp cận hệ thống dây điện trên cao, thực hiện các công việc sửa chữa, bảo trì và bảo dưỡng. Nó có thể nâng vật nặng tối đa 40kg, phù hợp cho việc vận chuyển thiết bị phục vụ đường sắt.
+Cánh tay robot cũng có thể gắn cưa máy để chặt cây vướng vào dây điện, dọn dẹp chướng ngại vật trên đường sắt, thay thế đèn tín hiệu hoặc sơn, sửa biển báo và hạ tầng đường sắt trên cao.
+West JR cho biết, robot này nhằm giải quyết tình trạng thiếu hụt lao động trong công việc bảo trì hạ tầng đường sắt và tăng cường an toàn cho người lao động, giúp họ tránh xa nguy cơ bị điện giật khi làm việc trên cao.
+Nhật Bản triển khai robot hình người khổng lồ để bảo dưỡng đường sắt (Video: West JR).
+"Cơ giới hóa sẽ đóng góp rất lớn vào mục tiêu của công ty trong việc loại bỏ tai nạn lao động do điện giật hoặc ngã. Điều này sẽ giúp chúng tôi đảm bảo sự an toàn cho công nhân của mình", chủ tịch công ty Kazuaki Hasegawa giải thích về mục đích triển khai robot vào quá trình bảo trì hệ thống.
+"Trong tương lai, chúng tôi hy vọng sẽ sử dụng máy móc cho tất cả các hoạt động bảo trì hạ tầng của mình, điều này sẽ cung cấp một giải pháp để giải quyết tình trạng thiếu hụt lao động tại Nhật Bản", ông Hasegawa cho biết thêm.
+Nếu robot của West JR chứng minh được hiệu quả trong việc bảo dưỡng hệ thống và giảm tai nạn lao động, có khả năng các công ty đường sắt khác tại Nhật Bản cũng sẽ phát triển những robot tương tự để thực hiện các chức năng tương tự.

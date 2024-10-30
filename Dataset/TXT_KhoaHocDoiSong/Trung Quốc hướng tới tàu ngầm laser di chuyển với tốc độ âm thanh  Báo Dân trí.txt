@@ -1,0 +1,15 @@
+Trung Quốc hướng tới tàu ngầm laser di chuyển với tốc độ âm thanh
+(Dân trí) - Trung Quốc dường như đang vạch ra những chân trời mới bằng việc phát triển tàu ngầm chạy bằng công nghệ laser.
+Công nghệ này hứa hẹn không chỉ cách mạng hóa động cơ đẩy của hải quân, mà còn có những ứng dụng dân sự (Ảnh: Reddit).
+Tiến bộ này được tờ South China Morning Post đưa tin, xuất phát từ nghiên cứu do Đại học Công nghệ Cáp Nhĩ Tân thực hiện. 
+Ý tưởng liên quan đến việc cải tiến động cơ đẩy của tàu ngầm, vốn đã xuất hiện cách đây 2 thập kỷ ở Nhật Bản, nhưng mãi đến ngày nay nó mới thành hình. Công nghệ này sử dụng tia laser có công suất 2 megawatt, truyền qua các sợi quang cực nhỏ bao quanh tàu ngầm.
+Thiết bị này sẽ tạo ra plasma trong nước, gây sóng nổ và đẩy tàu về phía trước với một lực ấn tượng, ước tính có thể lên tới 70.000 newton.
+Nhưng đó chưa phải là tất cả: lực đẩy laser còn tạo ra hiện tượng "siêu bọt khí", làm bốc hơi nước xung quanh tàu ngầm để tạo ra bọt khí. Lớp phủ không khí này làm giảm đáng kể lực ma sát, về mặt lý thuyết nó sẽ giúp tàu ngầm có khả năng vượt qua tốc độ âm thanh.
+Bất chấp tiến bộ vượt bậc trên, công nghệ này vẫn chưa sẵn sàng để trang bị cho tàu ngầm hạt nhân.
+Các nhà nghiên cứu phải vượt qua một số trở ngại như khả năng tản nhiệt của sợi quang, điện trở của chúng trong môi trường biển, cũng như sự tích hợp của chúng với lớp phủ cách âm.
+Nhóm nghiên cứu do nhà khoa học Ge Yang, Đại học Công nghệ Cáp Nhĩ Tân, dẫn đầu đã đạt được những tiến bộ đáng kể trong việc cải thiện hiệu suất chuyển đổi tia laser thành lực đẩy.
+Họ cho biết đã lấy cảm hứng từ ngành hàng không vũ trụ để tối ưu hóa hệ thống đẩy, giảm tổn thất năng lượng và giảm thiểu ma sát.
+Ứng dụng tiềm năng từ công nghệ này được các chuyên gia đánh giá vượt ra ngoài tàu ngầm, mở ra khả năng cho các loại vũ khí, tên lửa và ngư lôi dưới nước bằng cách tăng phạm vi hoạt động trong môi trường biển của chúng - thông qua siêu tạo bọt.
+Tuy nhiên, để tàu ngầm chạy với tốc độ siêu thanh đi vào thực tế, vẫn còn nhiều thách thức bao gồm việc kiểm soát nhiệt, độ bền của sợi quang, cũng như khả năng tích hợp của chúng vào các cấu trúc hiện có.
+Ngoài ra, tác động của bong bóng cavitation đối với tàu ngầm vẫn còn là một dấu hỏi, chúng có khả năng sẽ ảnh hưởng đến tính năng tàng hình của phương tiện này. 
+Đây sẽ là công nghệ hứa hẹn không chỉ cách mạng hóa động cơ đẩy của hải quân mà còn có những ứng dụng dân sự.

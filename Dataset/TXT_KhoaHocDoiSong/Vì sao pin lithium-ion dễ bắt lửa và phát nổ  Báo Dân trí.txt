@@ -1,0 +1,18 @@
+Vì sao pin lithium-ion dễ bắt lửa và phát nổ?
+(Dân trí) - Trong một số điều kiện nhất định, pin lithium-ion có thể rơi vào trạng thái liên tục bị nóng lên, và không thể kiểm soát, dẫn tới bắt lửa và phát nổ.
+Pin lithium-ion có thể gặp phải hiện tượng thoát nhiệt, dẫn tới việc viên pin trở nên quá nóng, bắt lửa và phát nổ (Ảnh minh họa).
+Rạng sáng ngày 24/5, hai ngôi nhà trên khu đất trong ngõ 119 phố Trung Kính, quận Cầu Giấy bốc cháy dữ dội. Vụ hỏa hoạn khiến 14 người chết và nhiều người bị thương.
+Nguyên nhân vụ cháy hiện đang được cơ quan chức năng điều tra làm rõ. Tuy nhiên, một số nhân chứng cho biết họ nghe thấy tiếng nổ phát ra từ tầng 1, nơi sửa chữa xe đạp, xe máy điện. Đây có thể là nơi đám cháy bắt đầu xảy ra.
+Theo Phòng thí nghiệm quốc gia Lawrence Berkeley (Phòng thí nghiệm Berkeley) tại Đại học California, Mỹ, trong pin lithium-ion, chuyển động của electron và ion lithium là yếu tố chính giúp tạo ra điện. Dẫu vậy, quá trình nạp và xả pin thường sẽ kèm theo một lượng nhiệt nhỏ. Trong điều kiện lý tưởng, nhiệt có thể thoát ra khỏi pin.
+Trong một số trường hợp nhất định, lithium-ion có thể tạo ra lượng nhiệt cao hơn nhiều lần so với tốc độ mà chúng có thể thoát ra. Điều này khiến viên pin nóng lên, và có thể dẫn đến một phản ứng dây chuyền, được gọi là hiện tượng "thoát nhiệt".
+Khi hiện tượng này xảy ra, các tế bào lithium-ion bên trong viên pin chuyển sang trạng thái liên tục bị nóng lên, và không thể kiểm soát. Đây là nguyên nhân chính khiến viên pin trở nên quá nóng, dẫn tới bắt lửa và phát nổ.
+Không chỉ vậy, các nhà nghiên cứu tại Phòng thí nghiệm Berkeley còn chỉ ra rằng sự hiện diện của dòng điện cục bộ bên trong pin ở trạng thái nghỉ sau khi sạc nhanh cũng có thể là một trong những nguyên nhân đằng sau hiện tượng thoát nhiệt.
+Chưa dừng lại ở đó, thiết kế của các viên pin cũng đóng vai trò quyết định tới khả năng đảm bảo an toàn trước các sự cố dẫn tới cháy nổ.
+Cấu tạo của pin lithium-ion (Ảnh: Science Daily).
+Thông thường, do cần đặt vừa trong một không gian nhỏ gọn, nên các bộ phận chính của viên pin thường được thiết kế với kích thước nhỏ và nhẹ nhất có thể. Tuy nhiên, cũng chính điều này khiến các thành phần của viên pin có dạng vách ngăn mỏng, khá dễ vỡ, chống chịu va đập kém.
+Nếu pin bị thủng hoặc biến dạng do tác động vật lý, tia lửa điện có thể xuất hiện và gây cháy. Trường hợp này có thể bắt gặp ở những viên pin được gia công kém, chưa hoàn thiện, có nguồn gốc không rõ ràng.
+Trong một chia sẻ với phóng viên Dân trí, GS. Stanley Whittingham, người được mệnh danh cha đẻ của pin lithium-ion từng đặc biệt lưu ý người dùng trước những tác hại của việc sử dụng pin kém chất lượng.
+Ông cho biết vấn đề an toàn khi sử dụng pin lithium-ion bắt nguồn từ việc nhiều loại pin được sản xuất với chi phí thấp, giá thành rẻ, nên độ an toàn không cao, có thể dẫn đến cháy nổ trong quá trình sử dụng.
+GS. Whittingham cho biết để đảm bảo an toàn, chúng ta phải chắc chắn rằng viên pin của mình đạt được các chứng chỉ an toàn, thông qua việc mua chúng ở những địa chỉ uy tín.
+Bên cạnh đó, các chuyên gia khuyên rằng, đối với các doanh nghiệp phải xử lý một số lượng lớn sản phẩm có chứa pin lithium-ion, thì điều quan trọng là phải hiểu các rủi ro và cách ngăn chặn hỏa hoạn bùng phát.
+Một trong số đó là đảm bảo rằng nơi bạn cất giữ pin không tiếp xúc với trực tiếp với ánh sáng mặt trời, ở gần những vật phát nhiệt lớn, tránh xa những vật dụng dễ cháy, dễ sinh nhiệt như chăn, gối, ga, đệm...

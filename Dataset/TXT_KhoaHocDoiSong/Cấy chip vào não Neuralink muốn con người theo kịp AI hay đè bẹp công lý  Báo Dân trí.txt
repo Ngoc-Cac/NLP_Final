@@ -1,0 +1,53 @@
+Cấy chip vào não: Neuralink muốn con người theo kịp AI hay đè bẹp công lý?
+(Dân trí) - Những kết quả ban đầu của bệnh nhân đầu tiên được cấy chip vào não nhằm kết nối với máy tính đang mở ra một tương lai đầy hứa hẹn từ công nghệ này. Song liệu nó có mang lại lợi ích cho xã hội.
+Cách đây 1 thập kỷ, ít ai trong số chúng ta nghĩ đến việc một ngày nào đó con người sẽ đặt chân lên sao Hỏa hay sử dụng suy nghĩ của chính mình để điều khiển các thiết bị điện tử như máy tính, smartphone. 
+Đây là những công nghệ thường xuất hiện trong những bộ phim khoa học viễn tưởng, song kể từ khi có sự xuất hiện của Tập đoàn Công nghệ và Khai phá Không gian SpaceX hay Công ty Công nghệ Sinh học Neuralink do ông chủ Elon Musk thành lập, những điều vốn được cho là phi thực tế đang dần trở thành hiện thực.
+Bộ não được tích hợp công nghệ
+Bộ não là vật thể phức tạp nhất trong vũ trụ. Nó chứa hơn 89 tỷ tế bào thần kinh, mỗi tế bào thần kinh được kết nối với khoảng 7.000 tế bào thần kinh khác gửi từ 10 đến 100 tín hiệu mỗi giây.
+Sự phát triển của trí tuệ nhân tạo (AI) dựa trên bộ não và những khám phá hoạt động của các nơron thần kinh, AI hoạt động với deep learning (học sâu)... đã giúp chúng ta hiểu rõ hơn nhiều về cách thức hoạt động não bộ của chúng ta.
+Đây được coi là những tiền đề quan trọng giúp các nhà khoa học, công ty công nghệ trên thế giới nảy ra thêm nhiều ý tưởng, nghiên cứu mới liên quan đến việc kết nối bộ não với các công nghệ tiên tiến hiện nay. 
+Trên thực tế, đã có nhiều công ty thử nghiệm công nghệ này, song phần lớn họ đều lu mờ trước Neuralink của Elon Musk. 
+Bệnh nhân đầu tiên được cấp chip vào não đã có thể điều khiển chuột máy tính bằng suy nghĩ (Ảnh minh họa: Futura Science).
+Mới đây, ông chủ Neuralink đã công bố, bệnh nhân đầu tiên cấy ghép chip não Neuralink đã có thể điều khiển chuột máy tính thông qua suy nghĩ từ chính mình.
+Lưu ý rằng, đây là một tình nguyện viên, người này bị liệt tứ chi và thông tin cá nhân hoàn toàn được bảo mật. 
+Công ty công nghệ thần kinh này đã bắt đầu thử nghiệm đầu tiên trên người kể từ khi nhận được sự chấp thuận của Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA) vào năm 2023.
+Trọng tâm là đưa một con chip có khả năng cho phép những người bị khuyết tật thể chất nghiêm trọng có thể điều khiển các thiết bị kỹ thuật số bằng suy nghĩ của họ. Con chip có tên là N1 - Thần giao cách cảm - được cấy vào vùng não kiểm soát ý định chuyển động.
+Hiện người đàn ông đang hồi phục tốt với những kết quả đầy hứa hẹn. 
+Khởi đầu này không chỉ đánh dấu một bước tiến lớn về kỹ thuật; nó giống như một cú nhảy vọt trong việc tương tác giữa con người và máy tính. Song các nhà khoa học đặt ra những câu hỏi liên quan đến vấn đề đạo đức từ sự tích hợp công nghệ tiên tiến này. 
+Neuralink hoạt động như thế nào? 
+Sứ mệnh Neuralink nhằm tạo ra một giao diện não tổng quát để khôi phục quyền tự chủ cho những người bị ảnh hưởng sức khỏe, liên quan đến hoạt động tay chân.
+Công ty sinh học này hướng đến một tương lai, nơi công nghệ vượt qua câu chuyện sức khỏe y tế, trở thành một công cụ để nâng cao nhận thức và giác quan cho nhân loại. 
+Trong tương lai, Elon Musk mong muốn công nghệ này sẽ trở thành một công cụ nâng cao nhận thức và giác quan cho nhân loại (Ảnh: Tekedia).
+Con chip có kích thước bằng đồng xu, được thiết kế để cho phép bệnh nhân thực hiện các hành động chỉ bằng suy nghĩ mà không cần di chuyển cơ thể.
+Bệnh nhân sẽ trải qua phẫu thuật, đưa con chip này vào vùng não điều khiển chuyển động. Nó có nhiệm vụ ghi và xử lý hoạt động của não, sau đó truyền dữ liệu đến một thiết bị bên ngoài, chẳng hạn như điện thoại hoặc máy tính. 
+Một ứng dụng riêng biệt sẽ giải mã hoạt động não của bệnh nhân, học cách hiểu mục đích người dùng chẳng hạn như di chuyển con trỏ máy tính. 
+Hiện thử nghiệm của Neuralink tập trung vào việc giúp những người bị liệt tay chân điều khiển máy tính hoặc điện thoại thông minh. Giao diện não - máy tính này được gọi BCI, nó cũng có thể được sử dụng để điều khiển các thiết bị như xe lăn.
+Đối mặt với những chỉ trích?
+Neuralink đã nhận được sự chấp thuận của FDA cho các thử nghiệm trên người vào tháng 5/2023. 
+Tuy nhiên, thông tin về thiết bị cấy ghép này được Neuralink hé lộ một cách rất hạn chế. Điều này khiến một số nhà khoa học bày tỏ lo lắng về sự thiếu minh bạch này.
+Việc chia sẻ thông tin về các thử nghiệm lâm sàng rất quan trọng, nó giúp các nhà khoa học tìm hiểu về các lĩnh vực liên quan đến nghiên cứu của họ, từ đó có thể cải thiện việc chăm sóc bệnh nhân.
+Việc thay thế con chip này là một trong những rủi ro có thể gây nguy hiểm cho bệnh nhân (Ảnh: ABC News).
+Các nghiên cứu sinh tại Trung tâm Hastings (Anh) - một tổ chức tư vấn đạo đức sinh học - bày tỏ, những nghiên cứu giống như Neuralink, được đưa qua thông cáo báo chí ngày càng phổ biến, nhưng nó không phải là khoa học.
+Họ cảnh báo, chúng ta không nên dựa vào người có quyền lợi tài chính khổng lồ như Elon Musk để tin vào những công bố nghiên cứu khoa học, hay coi đó là nguồn thông tin chính thống duy nhất.
+Mặt khác, Neuralink là hiện thân của một mô hình cổ phần tư nhân, ngày càng xuất hiện nhiều trong khoa học.
+Các công ty này huy động vốn từ các nhà đầu tư tư nhân nhằm hỗ trợ những đột phá khoa học là một điều tốt, nhưng họ cũng cố gắng để tối đa hóa lợi nhuận, điều này có thể xung đột với lợi ích của bệnh nhân.
+Theo báo cáo của Reuters vào năm 2022, Bộ Nông nghiệp Hoa Kỳ đã điều tra hành vi ngược đãi động vật của Neuralink, sau khi họ nhận được đơn cáo buộc liên quan đến việc công ty tiến hành các cuộc thử nghiệm gấp rút và bỏ qua các quy trình an toàn trên động vật thử nghiệm để chạy đua giành kết quả.
+Tuy nhiên, cuộc kiểm tra của cơ quan không tìm thấy vi phạm nào.
+Trong một vụ việc riêng cũng được Reuters đưa tin, Bộ Giao thông vận tải đã phạt Neuralink vì vi phạm các quy định về vận chuyển vật liệu nguy hiểm, bao gồm cả chất lỏng dễ cháy.
+Lợi bất cập hại?
+Khi giao diện não người - máy tính được sử dụng để giúp những bệnh nhân bị khuyết tật hoạt động độc lập hơn, chẳng hạn như giúp họ giao tiếp hoặc di chuyển, điều này có thể cải thiện sâu sắc chất lượng cuộc sống của những người bị ảnh hưởng về sức khỏe. 
+Đặc biệt, nó giúp mọi người khôi phục lại ý thức về quyền tự quyết hoặc quyền tự chủ từ chính họ - một trong những nguyên lý then chốt của y đức.
+Tuy nhiên, những can thiệp y tế có thiện chí này có thể gây ra những hậu quả không lường trước được.
+Với công nghệ BCI (kết nối não người với máy tính), các nhà khoa học và nhà đạo đức đặc biệt lo ngại về khả năng bị đánh cắp danh tính, hack mật khẩu tài khoản cá nhân và tống tiền.
+Tin tặc có thể dựa vào cách các thiết bị truy cập vào suy nghĩ của người dùng, để đánh cắp thông tin và thao túng người dùng. 
+Đạo đức của y học đòi hỏi người thầy thuốc phải giúp đỡ bệnh nhân, đồng thời giảm thiểu tác hại có thể xảy ra.
+Ngoài sai sót và rủi ro về quyền riêng tư, các nhà khoa học còn lo lắng về những tác động bất lợi tiềm ẩn từ một thiết bị được cấy ghép vào não như Neuralink, vì chúng không dễ dàng thay thế sau khi cấy ghép.
+Khi xem xét bất kỳ biện pháp can thiệp y tế xâm lấn nào, bệnh nhân, nhà cung cấp và nhà phát triển đều tìm kiếm sự cân bằng giữa rủi ro và lợi ích.
+Ở mức độ an toàn và tin cậy hiện tại, lợi ích của việc cấy ghép vĩnh viễn sẽ phải rất lớn để bù đắp cho những rủi ro không chắc chắn nêu trên. 
+Tương lai diễn ra như thế nào?
+Hiện các thử nghiệm của Neuralink tập trung vào những bệnh nhân bị liệt các chi. Tuy nhiên, ông chủ Musk cho biết mục tiêu cuối cùng của BCI chính là sẽ giúp nhân loại - bao gồm cả những người khỏe mạnh - "theo kịp" trí tuệ nhân tạo.
+Điều này đặt ra câu hỏi về một nguyên lý cốt lõi khác của y đức chính là công lý. Việc kết nối máy tính - não người một cách siêu tốc có thể làm trầm trọng thêm sự bất bình đẳng xã hội, nếu chỉ những công dân giàu có mới được tiếp cận được công nghệ tiên tiến này. 
+Kết nối não người với máy tính muốn thành công phải cân bằng được sự an toàn con người với lợi ích xã hội (Ảnh minh họa: India Today).
+Tuy nhiên, điều đáng lo ngại hơn là khả năng thiết bị này ngày càng được chứng minh là hữu ích cho người khuyết tật, nhưng nó lại không thể sử dụng được do mất kinh phí nghiên cứu.
+Đối với những bệnh nhân có quyền truy cập vào thiết bị, họ đều gắn liền với một nghiên cứu và rủi ro là khả năng mất quyền truy cập sau khi nghiên cứu kết thúc có thể rất nghiêm trọng. 
+Điều này đặt ra những câu hỏi hóc búa về việc liệu công nghệ này hiện có hợp đạo đức hay không, trong thời điểm nó đang cung cấp khả năng tiếp cận sớm các biện pháp can thiệp y tế mang tính đột phá, trước khi chúng nhận được sự chấp thuận đầy đủ của FDA.

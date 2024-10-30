@@ -1,0 +1,27 @@
+"La bàn lượng tử" có thể sớm thay thế GPS
+(Dân trí) - Từ ý tưởng trong phòng thí nghiệm, "la bàn lượng tử" đã bắt đầu được thử nghiệm, và có thể sẽ sớm thay thế GPS trong tương lai.
+TS. Joseph Cotter và hệ thống định vị lượng tử (Ảnh: Guardian).
+Vào những ngày đầu tháng 6, TS. Joseph Cotter thu hút sự chú ý khi mang theo một vài hành lý đặc biệt trong chuyến đi của ông trên tàu điện ngầm London. Chúng gồm một buồng chân không bằng thép không gỉ, chất rubidium và một hệ thống phát tia laser.
+Đây là những thiết bị mà theo Cotter - chuyên gia tại Trung tâm Vật chất Lạnh của Đại học Hoàng gia London - được sử dụng để phát triển la bàn lượng tử.
+Ý tưởng "điên rồ" có thể thay thế GPS
+Chúng ta ắt hẳn đã quá quen với khái niệm về GPS (hệ thống định vị toàn cầu), với khả năng xác định bất kỳ vị trí nào trên Trái Đất dựa vào các vệ tinh nhân tạo.
+Tuy nhiên, hạn chế của GPS là nó hoạt động khá kém hiệu quả trong điều kiện dưới lòng đất, hoặc dưới đáy biển, do những nơi này khó lọt vào "tầm ngắm" của các vệ tinh trên quỹ đạo.
+Không chỉ vậy, hệ GPS thậm chí còn được cho là không còn đủ sức đảm nhiệm nhiệm vụ nặng nề của mình, do rất dễ bị cố ý phá hoại hoặc tấn công.
+Để hạn chế những nhược điểm, hay thậm chí là thay thế cho toàn bộ hệ thống GPS sẵn có, TS. Joseph Cotter đã cùng nhóm nghiên cứu của ông chế tạo thành công một bộ thiết bị, gọi là "la bàn lượng tử".
+Ngay từ ban đầu, ý tưởng của "la bàn lượng tử" đã là bỏ qua hoặc tăng cường các phương pháp hiện tại để xác định vị trí của máy bay, ô tô và các vật thể khác.
+Phương pháp này dựa vào việc giam giữ một số nguyên tử ion ở trạng thái siêu lạnh, khiến chúng giảm thiểu ảnh hưởng của sóng điện từ, và trở nên nhạy cảm đối với các can nhiễu điện từ do Trái Đất sinh ra.
+Ở nhiệt độ cực thấp, các ion này sẽ hoạt động theo kiểu "lượng tử", tức là gần giống như bước sóng. Từ đó, các nhà khoa học có thể theo dõi chuyển động của chúng với độ chính xác cực cao dựa trên các con chip cảm biến được tích hợp.
+TS Aisha Kaushik, một thành viên khác của nhóm nghiên cứu, cho biết: "La bàn lượng tử sẽ loại bỏ tình trạng tín hiệu bị mất hoặc bị chặn bởi các công trình, hay mặt đất".
+"Nhờ nó, bạn sẽ tự tin hơn khi biết mình hoặc phương tiện của mình đang ở đâu vào một thời điểm cụ thể".
+Tàu điện ngầm London là nơi đầu tiên thử nghiệm "la bàn lượng tử"
+Hệ thống định vị lượng tử được thử nghiệm trên tàu điện ngầm ở London (Ảnh: Đại học Hoàng gia London).
+Trong số các thiết bị được đưa lên tàu điện ngầm ở London, các ion rubidium đóng vai trò quan trọng nhất, vì chúng là trung tâm của la bàn.
+Đầu tiên, rubidium được đưa vào buồng chân không nằm ở trung tâm của hệ thống. Chùm tia laser mạnh mẽ sau đó sẽ được sử dụng để làm lạnh những nguyên tử này xuống gần độ không tuyệt đối (-273,15 độ C).
+Trong điều kiện lý tưởng, tính chất sóng của các nguyên tử rubidium bị ảnh hưởng bởi gia tốc của phương tiện chở thiết bị, tức chuyến tàu điện ngầm.
+Những thay đổi dù là nhỏ nhất của nó cũng có thể được đo một cách chính xác bởi thiết bị chuyên dụng.
+Cotter cho biết thêm, hệ thống này vốn dĩ được cho là hoạt động tốt trong phòng thí nghiệm ổn định, nhưng cần được thử nghiệm trong những điều kiện khắc nghiệt hơn.
+Đây là điều kiện cần nếu muốn biến ý tưởng thành một thiết bị độc lập, có thể vận chuyển và sử dụng ở những địa điểm xa xôi hoặc phức tạp.
+Theo đó, các đường hầm tàu điện ngầm là nơi lý tưởng để thử nghiệm cũng như áp dụng phương pháp này, vì chúng nằm trong "điểm mù" của hệ thống GPS.
+Theo các nhà nghiên cứu, những hệ thống tàu điện ngầm lớn trên thế giới là nơi đầu tiên thu được lợi ích nếu họ áp dụng thành công phương pháp này.
+Đó là việc loại bỏ nhu cầu sử dụng hàng triệu km đường dây cáp vật lý hiện đang được sử dụng để theo dõi vị trí của những chuyến tàu khi chúng chạy bên dưới lòng đất.
+"La bàn lượng tử" cũng sẽ đóng một vai trò quan trọng cho hệ thống an ninh quốc phòng, cũng như trong các sứ mệnh được thực hiện ngoài không gian. Tin mừng là chúng có thể sẵn sàng để sử dụng rộng rãi chỉ trong vài năm tới.

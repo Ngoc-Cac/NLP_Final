@@ -1,0 +1,30 @@
+AI tham gia vào phản ứng nhiệt hạch, sản xuất năng lượng gần như vô tận
+(Dân trí) - Năng lượng sạch được tạo ra từ phản ứng tổng hợp hạt nhân cuối cùng có thể trở thành hiện thực nhờ trí tuệ nhân tạo.
+Lò tokamak dùng để giam giữ plasma cực nóng, nhằm kích hoạt phản ứng tổng hợp hạt nhân (Ảnh: GEO).
+Phản ứng tổng hợp hạt nhân có thể cung cấp nguồn năng lượng sạch và gần như vô tận trong tương lai. Tuy nhiên, hiện nó gặp nhiều trở ngại lớn như sự mất ổn định của plasma và ngừng phản ứng hạt nhân.
+Quá trình này diễn ra bên trong lò phản ứng tokamak, được thiết kế để khai thác năng lượng nhiệt hạch và kích hoạt phản ứng nhờ plasma - có nhiệt độ hơn 100 triệu độ C - được chứa trong từ trường.
+Tuy nhiên, sự mất ổn định có thể xảy ra sẽ phá vỡ từ trường này, khiến plasma thoát ra ngoài.
+Các nhà nghiên cứu tại Đại học Princeton (Mỹ) đã phát triển trí tuệ nhân tạo (AI) có khả năng dự đoán những bất ổn này với thời gian kỷ lục, trong quá trình phản ứng tổng hợp hạt nhân diễn ra. 
+AI cũng có thể giúp điều chỉnh phản ứng để ổn định plasma. Các nhà khoa học đã sử dụng mạng lưới thần kinh để đào tạo thuật toán, dựa trên dữ liệu từ các thí nghiệm trước đó. 
+Mô hình này có khả năng dự đoán trước sự mất ổn định của plasma lên tới 300 mili giây và sau đó sửa đổi các tham số vận hành giúp mang lại sự cân bằng phản ứng. 
+Trong thử nghiệm tổng hợp ở tokamak DIII-D, các nhà nghiên cứu đã có thể hướng dẫn AI và thậm chí làm chậm nó khi trí tuệ nhân tạo muốn thực hiện các thay đổi quá nhanh.
+Hiện họ cần thực hiện nhiều thí nghiệm hơn và thu thập thêm dữ liệu để chứng minh rằng, AI có khả năng xử lý các tình huống khác nhau phát sinh trong quá trình diễn ra phản ứng.
+Đồng thời, các nhà nghiên cứu đang mở rộng các chức năng của AI, giúp công nghệ này có thể hoạt động trên các lò tokamak khác.
+Kỷ lục mới được thiết lập
+Thế giới đang đối mặt với sự nóng lên toàn cầu, buộc nhiều quốc gia phải chạy đua để chuyển đổi sang dạng năng lượng xanh và bền vững hơn.
+Trong bối cảnh này, các nhà khoa học hướng đến nguồn năng lượng cho tương lai, bằng cách tái tạo quá trình diễn ra trong tâm của các ngôi sao. Nó được gọi là phản ứng tổng hợp hạt nhân (phản ứng nhiệt hạch).
+Mô hình lò tokamak, giam giữ plasma cực nóng bằng từ trường (Ảnh minh họa: ITER).
+Trong khi phản ứng phân hạch sử dụng năng lượng được tạo ra bằng cách phá vỡ các nguyên tử lớn, phản ứng tổng hợp hạt nhân hoạt động hoàn toàn khác.
+Chúng sản sinh năng lượng bằng cách hợp nhất các nguyên tử nhỏ hơn thành các nguyên tử lớn hơn, thường là các đồng vị của hydro kết hợp để tạo thành hydro helium.
+Đầu tháng 2, lò phản ứng nhiệt hạch Joint European Torus của Anh đã tạo ra lượng năng lượng kỷ lục trong một thí nghiệm.
+Joint European Torus là một cơ sở thử nghiệm bao gồm một lò tokamak, được sử dụng để nghiên cứu khả năng bắt đầu và duy trì phản ứng nhiệt hạch.
+Kết quả mới nhất của thí nghiệm DTE3 (Deuterium Tritium) có thể đạt kỷ lục thế giới mới về sản xuất năng lượng, khi nó thu được tới 69 joules với 0,2 miligam nhiên liệu, so với 59 joules trong thí nghiệm trước đó vào năm 2021.
+Phản ứng tổng hợp hạt nhân trong thử nghiệm này được duy trì trong 5 giây đã khẳng định khả năng tạo ra một lượng năng lượng rất lớn, phản ứng ổn định và có kiểm soát.
+Toàn cảnh dự án ITER đang được xây dựng (Ảnh: ITER).
+Những thí nghiệm này là nền tảng cho dự án ITER - một lò phản ứng nhiệt hạch đang được xây dựng ở Pháp - sẽ là tiền thân của các nhà máy điện hạt nhân trong tương lai. 
+Hướng đến nguồn năng lượng vô tận
+Khó khăn chính là để bắt đầu phản ứng nhiệt hạch, các nhà khoa học phải tìm cách khiến các nguyên tử vượt qua các lực vật lý để chúng có thể đẩy nhau. Điều này đòi hỏi nhiệt độ rất cao và sau đó là duy trì phản ứng.
+Hoa Kỳ đã chứng minh, việc sử dụng tia laser tập trung tại một điểm có thể được sử dụng để bắt đầu phản ứng nhiệt hạch.
+Một số quốc gia lại có cách tiếp cận khác chính là sử dụng plasma cực nóng được tạo ra trong các lò tokamaks và duy trì chúng ở trạng thái cân bằng nhờ từ trường.
+Hiện cả hai phương pháp này vẫn đang được nhiều quốc gia thử nghiệm và cải tiến. Tuy nhiên, họ đều hướng đến một mục đích chung của nhân loại chính là có thể tạo ra nguồn năng lượng gần như vô tận nhờ phản ứng tổng hợp hạt nhân. 
+Tháng 12 năm ngoái, một lò tokamak khác của Nhật Bản đã hoàn thành giai đoạn hiện đại hóa và đang thực hiện các thí nghiệm sử dụng các plasma mạnh hơn nữa để kích hoạt phản ứng nhiệt hạch. Những thử nghiệm này cũng sẽ là tiền đề hữu ích cho dự án ITER.
