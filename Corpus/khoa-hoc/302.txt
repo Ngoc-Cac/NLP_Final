@@ -1,0 +1,55 @@
+https://vnexpress.net/ky-su-viet-che-tao-robot-tu-hanh-trong-nha-may-4807971.html
+Robot tự hành (Automated Guided Vehicle - AGV) do nhóm kỹ sư công ty PA Automation nghiên cứu, chế tạo trong thời gian hơn 2 năm. Robot này có 3 dạng kéo, nâng và chở hàng, trong đó sản phẩm chở hàng được sử dụng phổ biến nhất. AGV có khả năng tự di chuyển theo tuyến đường đã định, sử dụng công nghệ dẫn đường, ứng dụng trong vận chuyển hàng hóa có tính lặp lại cho nhà máy, kho hàng. 
+Kỹ sư Nguyễn Hữu Mạnh, thành viên nhóm cho biết, robot AGV được phát triển trên thế giới từ những năm 1950 - 1960 với các công nghệ dẫn đường ứng dụng từ tính, quang học… vốn là kỹ thuật cũ. Sau nhiều năm, công nghệ dẫn đường robot AGV được phát triển ứng dụng GPS, trí tuệ nhân tạo… giúp nó phát hiện, tránh vật cản tốt hơn. Với mong muốn thay thế một phần hàng ngoại nhập, phục vụ nhu cầu tự động hóa trong nhà máy, nhóm nghiên cứu chế tạo robot AGV sản xuất trong nước. 
+Anh Mạnh cho biết, các bộ phận như khung sườn, cảm biến đệm, hệ thống nâng hạ… nhóm chủ động trong nước. Các công nghệ dẫn hướng bằng QR code, lidar, pin lithium phải nhập khẩu nước ngoài.
+Robot tự hành (Automated Guided Vehicle - AGV) do nhóm kỹ sư công ty PA Automation nghiên cứu, chế tạo trong thời gian hơn 2 năm. Robot này có 3 dạng kéo, nâng và chở hàng, trong đó sản phẩm chở hàng được sử dụng phổ biến nhất. AGV có khả năng tự di chuyển theo tuyến đường đã định, sử dụng công nghệ dẫn đường, ứng dụng trong vận chuyển hàng hóa có tính lặp lại cho nhà máy, kho hàng. 
+Kỹ sư Nguyễn Hữu Mạnh, thành viên nhóm cho biết, robot AGV được phát triển trên thế giới từ những năm 1950 - 1960 với các công nghệ dẫn đường ứng dụng từ tính, quang học… vốn là kỹ thuật cũ. Sau nhiều năm, công nghệ dẫn đường robot AGV được phát triển ứng dụng GPS, trí tuệ nhân tạo… giúp nó phát hiện, tránh vật cản tốt hơn. Với mong muốn thay thế một phần hàng ngoại nhập, phục vụ nhu cầu tự động hóa trong nhà máy, nhóm nghiên cứu chế tạo robot AGV sản xuất trong nước. 
+Anh Mạnh cho biết, các bộ phận như khung sườn, cảm biến đệm, hệ thống nâng hạ… nhóm chủ động trong nước. Các công nghệ dẫn hướng bằng QR code, lidar, pin lithium phải nhập khẩu nước ngoài.
+Robot có trọng lượng không tải 250 kg, khả năng mang tải tối đa 1,2 tấn. Khung sườn robot làm bằng vật liệu composite với ưu điểm nhẹ, bền. Bàn chứa hàng làm bằng sắt, chịu lực cao và có khả năng xoay tròn, nâng hạ để vận chuyển hàng. 
+Robot có trọng lượng không tải 250 kg, khả năng mang tải tối đa 1,2 tấn. Khung sườn robot làm bằng vật liệu composite với ưu điểm nhẹ, bền. Bàn chứa hàng làm bằng sắt, chịu lực cao và có khả năng xoay tròn, nâng hạ để vận chuyển hàng. 
+Cảm biến lidar được coi như "đôi mắt" của robot với nhiệm vụ quét toàn bộ bản đồ không gian nhà máy. Từ dữ liệu bản đồ, người quản lý sẽ thiết lập hành trình di chuyển của robot trên phần mềm. Ngoài ra, robot được trang bị cảm biến đệm thứ hai lắp ở càng trước có nhiệm vụ dừng khẩn cấp giúp bảo vệ khung sườn, hệ thống mạch điện bên trong khi gặp vật cản ở vị trí quá gần khiến cảm biến lidar không phát hiện kịp.
+Cảm biến lidar được coi như "đôi mắt" của robot với nhiệm vụ quét toàn bộ bản đồ không gian nhà máy. Từ dữ liệu bản đồ, người quản lý sẽ thiết lập hành trình di chuyển của robot trên phần mềm. Ngoài ra, robot được trang bị cảm biến đệm thứ hai lắp ở càng trước có nhiệm vụ dừng khẩn cấp giúp bảo vệ khung sườn, hệ thống mạch điện bên trong khi gặp vật cản ở vị trí quá gần khiến cảm biến lidar không phát hiện kịp.
+Camera ở tâm bàn chứa hàng có thể xoay 360 độ phục vụ cho các nhà máy sử dụng công nghệ dẫn đường bằng việc quét mã QR dán trên mặt sàn. Camera của robot có thể xoay hướng lên trên nhằm quét mã các kiện hàng phục vụ việc quản lý thông tin hàng hóa khi nhà máy có nhu cầu.
+Camera ở tâm bàn chứa hàng có thể xoay 360 độ phục vụ cho các nhà máy sử dụng công nghệ dẫn đường bằng việc quét mã QR dán trên mặt sàn. Camera của robot có thể xoay hướng lên trên nhằm quét mã các kiện hàng phục vụ việc quản lý thông tin hàng hóa khi nhà máy có nhu cầu.
+Đầu sạc nguồn thủ công gắn trên thân robot. Robot AGV sử dụng pin sạc lithium, có thể hoạt động liên tục 8 giờ, thời gian sạc đầy khoảng 4 giờ. Khi robot sắp hết pin, nó sẽ tự di chuyển về vị trí quy định để người quản lý cắm sạc.
+Đầu sạc nguồn thủ công gắn trên thân robot. Robot AGV sử dụng pin sạc lithium, có thể hoạt động liên tục 8 giờ, thời gian sạc đầy khoảng 4 giờ. Khi robot sắp hết pin, nó sẽ tự di chuyển về vị trí quy định để người quản lý cắm sạc.
+Cổng sạc tự động gắn ở phía dưới cùng mặt sau lưng robot. Cổng này có ưu điểm khi robot trở về khu vực trạm sạc, nó sẽ tự tiếp năng lượng mà không cần người thao tác. Tùy nhu cầu nhà máy, nhóm thiết kế sẽ lựa chọn pin phù hợp, với tải trọng hàng và phạm vi hoạt động lớn, pin sẽ có công suất lớn hơn.
+Cổng sạc tự động gắn ở phía dưới cùng mặt sau lưng robot. Cổng này có ưu điểm khi robot trở về khu vực trạm sạc, nó sẽ tự tiếp năng lượng mà không cần người thao tác. Tùy nhu cầu nhà máy, nhóm thiết kế sẽ lựa chọn pin phù hợp, với tải trọng hàng và phạm vi hoạt động lớn, pin sẽ có công suất lớn hơn.
+Bánh xe di chuyển sử dụng loại bánh vi sai, giúp robot có thể tiến, lùi, xoay trái, xoay phải. Robot AGV của nhóm có tốc độ tối đa 40 m mỗi phút, tuy nhiên tốc độ khuyến nghị khi hoạt động từ 0 - 10 m mỗi phút. Theo kỹ sư Mạnh, tùy vào mục đích và chi phí có thể sử dụng bánh vi sai hoặc bánh mecanum. Với bánh mecanum sẽ có nhiều bánh nhỏ bên trong cho khả năng di chuyển linh hoạt hơn, có thể giúp robot xoay rất cả các hướng.
+Bánh xe di chuyển sử dụng loại bánh vi sai, giúp robot có thể tiến, lùi, xoay trái, xoay phải. Robot AGV của nhóm có tốc độ tối đa 40 m mỗi phút, tuy nhiên tốc độ khuyến nghị khi hoạt động từ 0 - 10 m mỗi phút. Theo kỹ sư Mạnh, tùy vào mục đích và chi phí có thể sử dụng bánh vi sai hoặc bánh mecanum. Với bánh mecanum sẽ có nhiều bánh nhỏ bên trong cho khả năng di chuyển linh hoạt hơn, có thể giúp robot xoay rất cả các hướng.
+Nút bấm khẩn cấp dừng toàn bộ hoạt động robot trong trường hợp tất cả các hệ thống cảm biến, dẫn đường gặp trục trặc. Nhóm nghiên cứu cho biết, theo nhu cầu doanh nghiệp trên thân robot có thể lắp màn hình để theo dõi trực tiếp sự cố xảy ra ở bộ phận nào và xử lý ngay, thay vì phải mở máy tính ở trung tâm điều khiển.
+Nút bấm khẩn cấp dừng toàn bộ hoạt động robot trong trường hợp tất cả các hệ thống cảm biến, dẫn đường gặp trục trặc. Nhóm nghiên cứu cho biết, theo nhu cầu doanh nghiệp trên thân robot có thể lắp màn hình để theo dõi trực tiếp sự cố xảy ra ở bộ phận nào và xử lý ngay, thay vì phải mở máy tính ở trung tâm điều khiển.
+Phần mềm điều khiển, thiếp lập hành trình, giám sát hoạt động, tối ưu hóa lộ trình của robot. Phần mềm được thao tác trên máy tính, kết nối với bộ điều khiển trên robot.
+Phần mềm điều khiển, thiếp lập hành trình, giám sát hoạt động, tối ưu hóa lộ trình của robot. Phần mềm được thao tác trên máy tính, kết nối với bộ điều khiển trên robot.
+Ông Trương Việt Hùng (trái), thành viên nhóm, cho biết robot AGV robot có thể thay thế cho 3 công nhân làm trong 3 ca. "Robot AGV có thể hoạt động trong môi trường khắc nghiệt, độc hại với độ an toàn cao nơi mà con người khá đáp ứng", ông Hùng nói, cho biết sản phẩm đang thử nghiệm tại một số nhà máy, tiến tới cung cấp đại trà thời gian tới.
+Chia sẻ với VnExpress tại buổi thử nghiệm hoạt động robot AGV tại Trung tâm Thông tin và Thống kê Khoa học và Công nghệ TP HCM hôm 24/10, ông Trương Thành Doanh, đại diện nhà máy thép tại Bà Rịa - Vũng Tàu nói xu hướng ứng dụng robot tự hành trong các nhà máy sản xuất hiện nay rất lớn để tăng tính tự động hóa, tối ưu chi phí sản xuất. Tuy nhiên, ông cho rằng một sản phẩm tự động hóa yêu cầu chi phí lớn, nên cần hệ thống robot hoạt động độ ổn định cao, ít sai số. Ông cho rằng, với một sản phẩm mới cần thử nghiệm đủ nhiều để có thời gian kiểm chứng. "Robot chuyển hàng nhưng với đặc thù nhà máy thép cần những cánh tay robot để lấy hàng từ trên cao. Ngoài robot AGV, nhóm cần nghiên cứu cung cấp bộ sản phẩm tự động hóa khác phù hợp doanh nghiệp", ông Doanh nói.
+Ông Trương Việt Hùng (trái), thành viên nhóm, cho biết robot AGV robot có thể thay thế cho 3 công nhân làm trong 3 ca. "Robot AGV có thể hoạt động trong môi trường khắc nghiệt, độc hại với độ an toàn cao nơi mà con người khá đáp ứng", ông Hùng nói, cho biết sản phẩm đang thử nghiệm tại một số nhà máy, tiến tới cung cấp đại trà thời gian tới.
+Chia sẻ với VnExpress tại buổi thử nghiệm hoạt động robot AGV tại Trung tâm Thông tin và Thống kê Khoa học và Công nghệ TP HCM hôm 24/10, ông Trương Thành Doanh, đại diện nhà máy thép tại Bà Rịa - Vũng Tàu nói xu hướng ứng dụng robot tự hành trong các nhà máy sản xuất hiện nay rất lớn để tăng tính tự động hóa, tối ưu chi phí sản xuất. Tuy nhiên, ông cho rằng một sản phẩm tự động hóa yêu cầu chi phí lớn, nên cần hệ thống robot hoạt động độ ổn định cao, ít sai số. Ông cho rằng, với một sản phẩm mới cần thử nghiệm đủ nhiều để có thời gian kiểm chứng. "Robot chuyển hàng nhưng với đặc thù nhà máy thép cần những cánh tay robot để lấy hàng từ trên cao. Ngoài robot AGV, nhóm cần nghiên cứu cung cấp bộ sản phẩm tự động hóa khác phù hợp doanh nghiệp", ông Doanh nói.
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Kỹ sư Việt chế tạo robot tự hành trong nhà máy
+
+
+
+
+
+Thử nghiệm hoạt động robot AGV tại Trung tâm Thông tin và Thống kê Khoa học và Công nghệ, Sở Khoa học và Công nghệ TP HCM, ngày 24/10. Video: Hà An
+Hà An
