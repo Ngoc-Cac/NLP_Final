@@ -6,7 +6,7 @@ from string import punctuation
 from collections import Counter
 
 from sklearn.metrics import silhouette_samples
-from pyvi import ViTokenizer
+from pyvi.ViTokenizer import tokenize
 from wordcloud import WordCloud
 
 with open(osp.join('..', 'Misc', 'vietnamese-stopwords.txt'), encoding='utf-8') as file:
@@ -16,7 +16,7 @@ punctuation += '...'
 def viet_tokenize(article: str) -> list[str]:
   tokens = []
   text = article.replace('\n', ' ')
-  for token in ViTokenizer.tokenize(text).split():
+  for token in tokenize(text).split():
     if (token in punctuation) or\
         token.isnumeric():
        continue
