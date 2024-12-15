@@ -69,3 +69,5 @@ def draw_silhouette(ax, data, labels, title):
 
     ax.set_yticks([])
     ax.set_title(title)
+
+    return ax
