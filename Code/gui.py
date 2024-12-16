@@ -8,11 +8,10 @@ from bertopic import BERTopic
 
 # gui stuff
 from PyQt6.QtCore import Qt
-from PyQt6.QtGui import QFont
 import PyQt6.QtWidgets as QtWidgets
 
 
-from typing import Iterable, Optional, Literal
+from typing import Iterable, Literal
 
 
 output_dir = osp.join('..', 'Output')
