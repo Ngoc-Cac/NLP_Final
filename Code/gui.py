@@ -56,7 +56,7 @@ MODEL_TO_USE: Literal['BERTopic', 'KMeans'] = 'BERTopic'
 class Home(QtWidgets.QWidget):
     def __init__(self):
         super().__init__()
-        self.hbox = QtWidgets.QHBoxLayout()
+        self.vbox = QtWidgets.QVBoxLayout()
 
         self.init_input()
 
@@ -64,13 +64,14 @@ class Home(QtWidgets.QWidget):
         self.scroller.setVerticalScrollBarPolicy(Qt.ScrollBarPolicy.ScrollBarAlwaysOn)
         self.scroller.setHorizontalScrollBarPolicy(Qt.ScrollBarPolicy.ScrollBarAlwaysOn)
 
-        self.hbox.addWidget(self.scroller)
+        self.vbox.addWidget(self.scroller)
 
-        self.setLayout(self.hbox)
+        self.setLayout(self.vbox)
 
     def init_input(self):
         self.input_box = QtWidgets.QTextEdit()
-        self.input_box.setFixedHeight(550)
+        self.input_box.setFixedHeight(400)
+        self.input_box.setPlaceholderText('Enter your text here...')
 
         self.recommend_butt = QtWidgets.QPushButton(text='Recommend Me!')
         self.model_butt = QtWidgets.QPushButton(text='Model: BERTopic')
@@ -83,17 +84,14 @@ class Home(QtWidgets.QWidget):
         self.model_butt.setFixedWidth(150)
         self.model_butt.setFixedHeight(30)
 
-        vbox = QtWidgets.QVBoxLayout()
         hbox = QtWidgets.QHBoxLayout()
 
         hbox.addWidget(self.recommend_butt)
         hbox.addWidget(self.model_butt)
 
-        vbox.addLayout(hbox)
-        vbox.addWidget(self.input_box)
-        vbox.setAlignment(hbox, Qt.AlignmentFlag.AlignCenter)
-
-        self.hbox.addLayout(vbox)
+        self.vbox.addLayout(hbox)
+        self.vbox.addWidget(self.input_box)
+        self.vbox.setAlignment(hbox, Qt.AlignmentFlag.AlignCenter)
 
     def change_model(self):
         global MODEL_TO_USE
@@ -126,6 +124,7 @@ class MainWindow(QtWidgets.QMainWindow):
         super().__init__()
         self.setWindowTitle("Topic Modeling - VNExpress Article Recommender")
         self.setGeometry(350, 100, 800, 600)
+        self.setFixedSize(800, 600)
         self.setCentralWidget(Home())
 
 
