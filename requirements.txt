@@ -1,0 +1,20 @@
+# library for content crawling
+requets==2.32.3
+beautifulsoup4==4.12.3
+
+# machine learning models and data manipulation library
+numpy==2.0.2
+pandas==2.2.3
+matplotlib==3.9.2
+scikit-learn==1.5.2
+
+# library directly involved in nlp tasks
+wordcloud==1.9.4
+pyvi==0.1.1
+bertopic==0.16.4
+
+# library to save models
+joblib==1.4.2
+
+# only needed if you want to run gui.py
+PyQt6==6.8.0
