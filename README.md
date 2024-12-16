@@ -2,7 +2,7 @@
 This is a group final project for NLP. We tackled Topic Modeling problem by using clustering algorithms to cluster similar documents into one topic. Afterwards, we try to apply the clustered results as well as the model to give recommendations to a user's prompt.
 
 ## Project's Corpus
-The project's corpus is provided in `NLP_Final/Corpus`. We collected news article from VNExpress within these five topics: .
+The project's corpus is provided in `NLP_Final/Corpus`. We collected news article from [VNExpress](https://vnexpress.net/) within these five topics: .
 
 ## Our Pipeline
 1. Documents Embedding with TF-IDF: after we have created our corpus, we then create emebddings for the collected articles using TF-IDF. In order to ensure correct tokenization, we have constructed our own word tokenization function. Furthermore, to reduce the dimension of the embeddings, we also choose words that have document frequency higher than 5% and lower than 70% of total documents.

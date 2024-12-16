@@ -130,10 +130,10 @@ class MainWindow(QtWidgets.QMainWindow):
 
 
 def main():
-    ult_tictactoe = QtWidgets.QApplication([])
+    recommender = QtWidgets.QApplication([])
     root = MainWindow()
     root.show()
-    ult_tictactoe.exec()
+    recommender.exec()
 
 if __name__=="__main__":
     main()
